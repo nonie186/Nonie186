@@ -40,9 +40,10 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ## Get in Touch 📬
 
-!e**(https://sites.google.com/view/nonhlanhla-masuku)
+![Googlesite](https://sites.google.com/view/nonhlanhla-masuku)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit(https://www.linkedin.com/in/nonhlanhla-masuku))
-- **![x]**(https://x.com/AnithaMasuku)
+![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white(https://x.com/AnithaMasuku))
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:anithamasuku@gmail.com))
 
 
 
