@@ -20,7 +20,9 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Featured Projects 💻 (Loading...)
 
@@ -38,7 +40,7 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ## Get in Touch 📬
 
-- **![Personal Website / Blog]**(https://sites.google.com/view/nonhlanhla-masuku)
+- **https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white**(https://sites.google.com/view/nonhlanhla-masuku)
 - **![LinkedIn]**(https://www.linkedin.com/in/nonhlanhla-masuku)
 - **![x]**(https://x.com/AnithaMasuku)
 
