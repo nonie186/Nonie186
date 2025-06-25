@@ -38,9 +38,9 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**https://sites.google.com/view/nonhlanhla-masuku
-- **[LinkedIn]**https://www.linkedin.com/in/nonhlanhla-masuku/
-- **[Twitter]**https://x.com/AnithaMasuku
+- **[Personal Website / Blog]**(https://sites.google.com/view/nonhlanhla-masuku)
+- **[LinkedIn]**(https://www.linkedin.com/in/nonhlanhla-masuku)
+- **[Twitter]**(https://x.com/AnithaMasuku)
 
 
 
