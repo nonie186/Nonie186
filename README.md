@@ -1,6 +1,6 @@
 # Hi there,👋
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=nonie186&txt=Aspiring%20DevOps%20Engineer%20"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?<br>username=nonie186&txt=Aspiring%20DevOps%20Engineer%20"></p>
 
 ## About Me 🚀
 
