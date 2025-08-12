@@ -33,7 +33,7 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ## Featured Projects 💻 
 
-### Introduction to Amazon EC2(project_1_link)
+### Introduction to Amazon EC2
 
 ![Amazon EC2](https://github.com/user-attachments/assets/70b5e9f0-6083-46da-b019-1c4118517fc8)
 
@@ -50,7 +50,7 @@ This project demonstrates my ability to
 
 You can check out the repository [here](project_1_repository_link).
 
-### Cloud Testing (project_2_link)
+### Cloud Testing 
 
 ![codeFactory-logo](https://github.com/user-attachments/assets/5a6feedb-108c-4bea-8fc9-fcf642ba09e6)
 
