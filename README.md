@@ -4,20 +4,17 @@
 
 I'm a passionate Virtual Assistant with experience in Project Management, Customer Service, Team Leadership, and Collaboration. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning:
-  > AWS Cloud Concepts with Praesignis.
+###🌱 Currently learning and 🔭 Working on:
+  > - AWS Cloud Concepts with Praesignis.
+  > - Cloud Testing with CodeFactory sponsored by Praesignis.
   
-- 🔭 Working on:
-  > AWS Practice lab (Cloud concepts)
-  > Cloud Testing with CodeFactory sponsored by Praesignis.
+### 🌍 Languages:
+  > - IsiZulu, IsiXhosa, HTML, CSS, Javascrip, and PHP.
   
-- 🌍 Languages:
-  > IsiZulu, IsiXhosa, HTML, CSS, Javascrip, and PHP.
-  
-- 📫 How to reach me:
+### How to reach me:
   > anithamasuku@gmail.com
   
-- ⚡ Fun fact:
+### ⚡ Fun fact:
   > **I keep tidy and clean up a lot to free up brain space from yesterday's cookies**
 
 ## My Skills 🧠
@@ -42,19 +39,27 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 **Amazon Elastic Compute Cloud (Amazon EC2)** is a web service that provides resizable compute capacity in the cloud. 
 It is designed to make web-scale cloud computing easier for users. 
 This project demonstrates my ability to 
-> Launch a web server with termination protection enabled
-> Monitor Your EC2 instance
-> Modify the security group that your web server is using to allow HTTP access
->  Resize your Amazon EC2 instance to scale
->  Test termination protection
->  Terminate your EC2 instance. 
+> - Launch a web server with termination protection enabled
+> -  Monitor Your EC2 instance
+> - Modify the security group that your web server is using to allow HTTP access
+>  - Resize your Amazon EC2 instance to scale
+>  - Test termination protection
+>  - Terminate your EC2 instance.
+
 You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### Cloud Testing (project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+> CodeFactory Cloud Testing Projects is a collection of practical projects developed as part of the CodeFactory Cloud Testing course. 
+> These projects are designed to demonstrate skills in
+ - Cloud-based application testing.
+ - Automated testing strategies.
+ - CI/CD pipeline integration
+ - Test result analysis.
+   
+You can check out the repository [here](project_1_repository_link).
 
 ## Get in Touch 📬
 
