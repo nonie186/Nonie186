@@ -4,9 +4,13 @@
 
 I'm a passionate Virtual Assistant with experience in Project Management, Customer Service, Team Leadership, and Collaboration. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **AWS Cloud concepts through practice labs, Javascript, Python, SQL, and currently enrolled in  Software Engineering Program**
-- 🔭 Working on: **AWS Practice lab (Cloud concepts), will be starting with a small personal quality project(coming soon)**
-- 🌍 Languages: **IsiZulu, IsiXhosa, HTML, CSS**
+- 🌱 Currently learning: 
+  > AWS Cloud concepts through practice labs with Praesignis
+- 🔭 Working on:
+   > AWS Practice lab (Cloud concepts) will be starting with a small personal quality project(coming soon)
+   > Cloud Testing with CodeFactory sponsored by Praesignis
+- 🌍 Languages:
+  > IsiZulu, IsiXhosa, HTML, CSS, JavaScript, and PHP*
 - 📫 How to reach me: **anithamasuku@gmail.com**
 - ⚡ Fun fact: **I keep tidy and clean up a lot to free up brain space from yesterday's cookies**
 
@@ -26,11 +30,23 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ## Featured Projects 💻 (Loading...)
 
-### [Project 1 Title](project_1_link)
+### Introduction to Amazon EC2 (project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers.. This project demonstrates my ability to **Launch a web server with termination protection enabled
+
+Monitor Your EC2 instance
+
+Modify the security group that your web server is using to allow HTTP access
+
+Resize your Amazon EC2 instance to scale
+
+Test termination protection
+
+Terminate your EC2 instance**. 
+
+You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
