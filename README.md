@@ -26,7 +26,7 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ## Featured Projects 💻 (Loading...)
 
-### [Project 1 Title](project_1_link)
+### Introduction to Amazon Elastic Cloud Compute (Amazon EC2)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
