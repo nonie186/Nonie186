@@ -31,10 +31,11 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Featured Projects 💻 (Loading...)
+## Featured Projects 💻 
 
 ### Introduction to Amazon EC2(project_1_link)
-![Project 1 Screenshot](project_1_screenshot_url)
+
+![Amazon EC2](https://github.com/user-attachments/assets/13d2e3e2-1d11-4129-86ab-00399352718d)
 
 **Amazon Elastic Compute Cloud (Amazon EC2)** is a web service that provides resizable compute capacity in the cloud. 
 It is designed to make web-scale cloud computing easier for users. 
@@ -50,7 +51,8 @@ You can check out the repository [here](project_1_repository_link).
 
 ### Cloud Testing (project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![codeFactory-logo](https://github.com/user-attachments/assets/5a6feedb-108c-4bea-8fc9-fcf642ba09e6)
+
 
 > CodeFactory Cloud Testing Projects is a collection of practical projects developed as part of the CodeFactory Cloud Testing course. 
 > These projects are designed to demonstrate skills in
