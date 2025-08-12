@@ -5,13 +5,13 @@
 I'm a passionate Virtual Assistant with experience in Project Management, Customer Service, Team Leadership, and Collaboration. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning:
-  > **AWS Cloud Concepts with Praesignis**
+  > AWS Cloud Concepts with Praesignis
 - 🔭 Working on:
-  > **AWS Practice lab (Cloud concepts)**
+  > AWS Practice lab (Cloud concepts)
   > Cloud Testing with CodeFactory sponsored by Praesignis
 - 🌍 Languages:
-- **IsiZulu, IsiXhosa, HTML, CSS, Javascrip,t and PHP**
-- 📫 How to reach me: **anithamasuku@gmail.com**
+- IsiZulu, IsiXhosa, HTML, CSS, Javascrip,t and PHP
+- 📫 How to reach me: anithamasuku@gmail.com
 - ⚡ Fun fact: **I keep tidy and clean up a lot to free up brain space from yesterday's cookies**
 
 ## My Skills 🧠
