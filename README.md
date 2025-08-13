@@ -48,7 +48,7 @@ This project demonstrates my ability to
 >  - Test termination protection
 >  - Terminate your EC2 instance.
 
-You can check out the repository [here](project_1_repository_link).
+You can check out the repository [here](https://github.com/nonie186/Amazon-EC2-Elastic-Compute-Cloud/blob/main/Launch%20EC2/Create-Lanch&MonitorEC2Instance.md.md).
 
 ### Cloud Testing 
 
