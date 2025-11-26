@@ -48,7 +48,7 @@ This project demonstrates my ability to
 >  - Test termination protection
 >  - Terminate your EC2 instance.
 
-You can check out the repository [here](Projects/Create-Lanch&MonitorEC2Instance.md).
+You can check out the repository [here](https://github.com/nonie186/AWS-Core-Services/blob/main/Projects/Create-Lanch%26MonitorEC2Instance.md).
 
 ### Cloud Testing 
 
