@@ -35,7 +35,7 @@ I'm a passionate Virtual Assistant with experience in Project Management, Custom
 
 ### Introduction to Amazon EC2
 
-![Amazon EC2](https://github.com/nonie186/AWS-Core-Services/blob/main/Projects/Create-Lanch%26MonitorEC2Instance.md)
+![Amazon EC2](https://github.com/nonie186/Amazon-EC2-Elastic-Compute-Cloud/blob/main/Launch%20EC2/Create-Lanch&MonitorEC2Instance.md.md)
 
 
 **Amazon Elastic Compute Cloud (Amazon EC2)** is a web service that provides resizable compute capacity in the cloud. 
