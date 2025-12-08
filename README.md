@@ -62,7 +62,7 @@ You can check out the repository [here](https://github.com/nonie186/AWS-Core-Ser
  - CI/CD pipeline integration
  - Test result analysis.
    
-You can check out the repository [here](project_1_repository_link).
+You can check out the repository [here](https://github.com/nonie186/ecommerce-testing-pipeline?tab=readm).
 
 ## Get in Touch 📬
 
